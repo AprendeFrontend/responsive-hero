@@ -14,7 +14,8 @@ Este reto consiste en replicar un diseño profesional utilizando **HTML** y **CS
 
 A continuación, puedes ver cómo luce tu proyecto final.
 
-![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/...)
+![Vista previa](https://raw.githubusercontent.com/AprendeFrontend/responsive-hero/refs/heads/main/screenshots/responsive-hero.jpg)
+
 
 ---
 
